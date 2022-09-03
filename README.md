@@ -6,7 +6,7 @@
 
 # Our Discord:
 
-If you have any problem, feel free to open a ticket - https://discord.gg/nchub
+If you have any problem, feel free to open a ticket - https://discord.gg/cKt4Mpd2PQ
 
 # Installation
 
